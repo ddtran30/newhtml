@@ -2418,3 +2418,6 @@ footer .footer_end {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+.portfolio_card img{
+  border-radius: 10%;
+}
